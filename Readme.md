@@ -1,6 +1,6 @@
-# Menu
+# Video project
 
-This is a solution to the Menu project which is a part of John Smilga's 15 JS projects tutorial.
+This is a solution to the Video project which is a part of John Smilga's 15 JS projects tutorial.
 
 ## Table of contents
 
@@ -21,21 +21,21 @@ Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
-- View the Menu items.
-- View only categorical menu items on click of Menu buttons.
+- View the Video and the control button.
+- Pause and play the video on click of control button.
 
 
 ### Screenshot
 
 #### Full Screen
-![Full screen](./images/Website_preview.jpg)
-#### Filter Display
-![Filtered items screen](./images/Filtered_item_view.jpg)
+![Full screen](./resources/Website_preview.jpg)
+#### Paused Video Display
+![Paused screen](./resources/Paused_view.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Menu)
-- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Menu/)
+- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Video)
+- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Video/)
 
 ## My process
 
@@ -52,8 +52,6 @@ Users should be able to:
 This project helped me recap over some concepts of CSS and JS such as  Event listerners, DOM manipulation techniques including:
 - classList
 - Class addition and removal
-- toggle
-- map()
 
 
 
